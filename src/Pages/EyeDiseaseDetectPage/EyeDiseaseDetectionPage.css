@@ -1,0 +1,23 @@
+/* src/styles.css */
+
+body {
+    background-color: #F4F9F9;
+    font-family: 'Nunito', sans-serif;
+  }
+  
+  h1, h4 {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Optional: Adjust card header colors for a consistent look */
+  .card-header {
+    font-weight: bold;
+  }
+  
+  /* Responsive tweaks (if needed) */
+  @media (max-width: 768px) {
+    .card {
+      margin-bottom: 1rem;
+    }
+  }
+  
